@@ -9,5 +9,7 @@ func main(){
     var ss string
     ss = "ss"
     fmt.Println(ss)
+    var sss string = "sss"
+    fmt.Println(sss)
 }
 
